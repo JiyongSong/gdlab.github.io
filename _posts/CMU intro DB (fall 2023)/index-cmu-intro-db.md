@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-11-27 11:30
+date: 2023-11-28 KST
 author: Jiyong Song
 ---
 
@@ -10,7 +10,7 @@ author: Jiyong Song
 
 ## Lectures
 * #00 Course overview & logistics
-* [#01 Relational model & algebra](CMU intro DB - lecture01.md)
+* [#01 Relational model & algebra](cmu-intro-db-lecture01.md)
 * #02 Advanced SQL
 * #03 Database storage 1
 * ...
