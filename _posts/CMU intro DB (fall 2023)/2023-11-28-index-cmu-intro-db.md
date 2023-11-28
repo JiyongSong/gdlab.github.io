@@ -10,7 +10,7 @@ author: Jiyong Song
 
 ## Lectures
 * #00 Course overview & logistics
-* [#01 Relational model & algebra](cmu-intro-db-lecture01.md)
+* [#01 Relational model & algebra](2023-11-28-cmu-intro-db-lecture01.md)
 * #02 Advanced SQL
 * #03 Database storage 1
 * ...
